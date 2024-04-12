@@ -1,3 +1,3 @@
 ## Socker Swarm Structure
 
-![image](https://github.com/arianariamehr/docker-swarm-stack-sample/assets/130653489/93c52077-f768-46df-8155-7058d855eeff)
+![image](https://github.com/rezaharasani/deploying-apps-with-docker-stacks/assets/73277136/d556ac17-7d0e-458f-9d86-3f806a4c9d64)

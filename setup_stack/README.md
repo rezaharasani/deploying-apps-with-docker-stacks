@@ -12,3 +12,14 @@ The Compose file includes the entire stack of microservices that make up the app
 To accomplish all of this, *stacks build on top of Docker Swarm*, meaning you get all of the security and advanced features that come with Swarm.  
 
 In a nutshell, Docker is great for application development and testing. Docker Stacks are great for scale and production.  
+
+From and architecture perspective, stacks are at the top of the Docker application hierarchy. They build on top of *services*, which in turn build on top of containers.  
+
+![image](https://github.com/rezaharasani/deploying-apps-with-docker-stacks/assets/73277136/98ded1c4-a081-4a16-ad9b-fb8b1376d92b)
+
+We’ll divide this section as follows:  
+• Overview of the sample app  
+• Stack files  
+• Deploying stacks  
+• Managing stacks  
+

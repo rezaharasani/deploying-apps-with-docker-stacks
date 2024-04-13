@@ -1,4 +1,6 @@
-## Socker Swarm Structure
+# Docker Deep Dive
+### Zero to Docker in a single book
+
 This is a book about Docker, no prior knowledge required. In fact, the motto of the book is Zero to Docker in a single book.  
 
 So, if you’re involved in the development and operations of cloud-native microservices apps and need to learn Docker, or if you want to be involved in that stuff, this book is dedicated to you.  

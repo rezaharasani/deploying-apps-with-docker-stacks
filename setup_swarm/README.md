@@ -1,5 +1,9 @@
 # Docker Swarm  
 
+<p align="center">
+  <img src="https://github.com/rezaharasani/deploying-apps-with-docker-stacks/assets/73277136/c98e3843-0246-466b-96f3-bf97bb573cd8" width="500"/>
+</p>
+
 Docker Swarm is two things:  
 1. An enterprise-grade secure cluster of Docker hosts  
 2. An orchestrator of microservices apps
